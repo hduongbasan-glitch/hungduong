@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>HÙNG DƯƠNG — Profile v2</title>
+<title> HÙNG DƯƠNG — Profile v2</title>
 <meta name="theme-color" content="#000000" />
 <meta name="description" content="LinkBio neon galaxy — DarkStack Team" />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='50' font-size='52'%3E%F0%9F%9A%80%3C/text%3E%3C/svg%3E" />
@@ -130,13 +130,10 @@ html,body{
     </section>
   </div>
 </div>
-
 <div class="toast" id="toast">Đã copy!</div>
-
 <audio id="backgroundAudio" loop preload="auto" style="display:none">
   <source src="https://pomf2.lain.la/f/l5nv41b6.mp3" type="audio/mpeg" />
 </audio>
-
 <script>
 // Music toggle
 const audio=document.getElementById('backgroundAudio');
